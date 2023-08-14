@@ -43,5 +43,6 @@
 7. Access the app in your browser at [http://localhost:3000](http://localhost:3000).(example of address)
 
 ### Hirarchy - Scheme
+<img width="2606" alt="image" src="https://github.com/KagBen/CostumerMangmentReactFinal/assets/53075379/a209c6c8-c2b3-4fcd-bef1-6e06cfe764a9">
 
 © [Ben Kagarlizky]
