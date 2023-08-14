@@ -3,7 +3,7 @@
 
   <p>Developed a sophisticated web application catering to administrators, based on React, Redux, Tailwind, and Firebase, to create a seamless user experience. Implemented advanced memoization techniques to optimize rendering, ensuring optimal performance and user satisfaction. Proficiently mastered complete CRUD functionality, empowering me to efficiently manage products, customers, and purchases. (React-Redux, Firebase, Tailwind CSS, memoization)</p>
   
-<img width="1440" alt="Screenshot 2023-08-14 at 10 16 09" src="https://github.com/KagBen/CostumerMangmentReactFinal/assets/53075379/d4529c71-da04-427e-900c-a37b8602ea01">
+<img width="1440" alt="ProjectSnapShot" src="https://github.com/KagBen/CostumerMangmentReactFinal/assets/53075379/d4529c71-da04-427e-900c-a37b8602ea01">
 
 
   <h2>Getting Started</h2>
