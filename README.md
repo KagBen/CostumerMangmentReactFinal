@@ -19,11 +19,11 @@
     <li>Clone the repository:</li>
     <pre><code>git clone https://github.com/KagBen/CostumerMangmentReactFinal.git</code></pre>
     <li>Navigate to the project folder:</li>
-    <pre><code>cd productStore</code></pre>
+    <pre><code>cd CostumerMangmentReactFinal</code></pre>
     <li>Install dependencies:</li>
     <ul>
       <li><strong>Note:</strong> This project uses Tailwind CSS for styling. If you don't have it installed globally, you can install it with:</li>
-      <pre><code>npm install -g tailwindcss</code></pre>
+      <pre><code>npm install tailwindcss postcss autoprefixer</code></pre>
       <li><strong>Note:</strong> This project uses Firebase for data storage and authentication. If you haven't already, you'll need to create a Firebase project and obtain your Firebase configuration. Update the configuration in the appropriate files (e.g., <code>src/firebase.js</code>) before proceeding.</li>
       <pre><code>npm install firebase</code></pre>
       <li><strong>Note:</strong> This project also uses React Redux for state management. If you're not familiar with React Redux, you can learn more about it <a href="https://react-redux.js.org/">here</a>. To install React Redux, run:</li>
