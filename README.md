@@ -17,6 +17,7 @@
 ### Installation
 
 1. Clone the repository:
+2. 
  ```shell
     git clone https://github.com/KagBen/CostumerMangmentReactFinal.git
 ```
@@ -29,19 +30,20 @@ cd productStore
    
 4. Install dependencies:
    - **Note:** This project uses Tailwind CSS for styling. If you don't have it installed globally, you can install it with:
+     
        ```shell
      npm install -g tailwindcss
-```
+        ```
 
    
    - **Note:** This project uses Firebase for data storage and authentication. If you haven't already, you'll need to create a Firebase     
                project and obtain your Firebase configuration. Update the configuration in the appropriate files (e.g., `src/firebase.js`) 
                  before proceeding. 
-
-    
  ```shell
      npm i firebase
 ```
+    
+
 
     - **Note:** This project also uses React Redux for state management. If you're not familiar with React Redux, you can learn more about               it [here](https://react-redux.js.org/). To install React Redux, run:
 
