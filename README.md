@@ -24,7 +24,7 @@
     <ul>
       <li><strong>Note:</strong> This project uses Tailwind CSS for styling. If you don't have it installed globally, you can install it with:</li>
       <pre><code>npm install tailwindcss postcss autoprefixer</code></pre>
-      <li><strong>Note:</strong> This project uses Firebase for data storage and authentication. If you haven't already, you'll need to create a Firebase project and obtain your Firebase configuration. Update the configuration in the appropriate files (e.g., <code>src/firebase.js</code>) before proceeding.</li>
+      <li><strong>Note:</strong> This project uses Firebase for data storage and authentication. If you haven't already, you'll need to create a Firebase project and obtain your Firebase configuration.<strong> Update the configuration in the appropriate files (e.g., <code>src/firebase.js</code>) before proceeding. </strong></li>
       <pre><code>npm install firebase</code></pre>
       <li><strong>Note:</strong> This project also uses React Redux for state management. If you're not familiar with React Redux, you can learn more about it <a href="https://react-redux.js.org/">here</a>. To install React Redux, run:</li>
       <pre><code>npm install redux react-redux</code></pre>
